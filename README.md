@@ -21,18 +21,7 @@
 <br/>
 
 [**🎮 Live Demo**](https://scamshield.vercel.app) · [**📽️ Video Walkthrough**](#) · [**📊 Pitch Deck**](#) · [**🧠 How It Works**](#-architecture)
-
----
-
-<img src="public/1.png" alt="ScamShield Preview 1" width="100%" />
-<img src="public/2.png" alt="ScamShield Preview 2" width="100%" />
-<img src="public/3.png" alt="ScamShield Preview 3" width="100%" />
-<img src="public/4.png" alt="ScamShield Preview 4" width="100%" />
-<img src="public/5.png" alt="ScamShield Preview 5" width="100%" />
-<img src="public/6.png" alt="ScamShield Preview 6" width="100%" />
-<img src="public/7.png" alt="ScamShield Preview 7" width="100%" />
-<img src="public/8.png" alt="ScamShield Preview 8" width="100%" />
-
+[**🎮 Live Demo**](https://www.youtube.com/watch?v=dg0elsnAmi8) · [**📽️ Video Walkthrough**](#) · [**📊 Pitch Deck**](#) · [**🧠 How It Works**](#-architecture)
 </div>
 
 ---
@@ -359,5 +348,14 @@ MIT — see [LICENSE](./LICENSE). Use it, fork it, ship it. **If you're eSewa or
 <br/>
 
 Made with 🛡️ in Nepal · Powered by caffeine and outrage
+---
 
+<img src="public/1.png" alt="ScamShield Preview 1" width="100%" />
+<img src="public/2.png" alt="ScamShield Preview 2" width="100%" />
+<img src="public/3.png" alt="ScamShield Preview 3" width="100%" />
+<img src="public/4.png" alt="ScamShield Preview 4" width="100%" />
+<img src="public/5.png" alt="ScamShield Preview 5" width="100%" />
+<img src="public/6.png" alt="ScamShield Preview 6" width="100%" />
+<img src="public/7.png" alt="ScamShield Preview 7" width="100%" />
+<img src="public/8.png" alt="ScamShield Preview 8" width="100%" />
 </div>
