@@ -20,7 +20,7 @@
 
 <br/>
 
-[**🎮 Live Demo**](https://scamshield.vercel.app) · [**📽️ Video Walkthrough**](#) · [**📊 Pitch Deck**](#) · [**🧠 How It Works**](#-architecture)
+[**🎮 Live Demo**](https://e-sewa-xwwf.vercel.app/) · [**📽️ Video Walkthrough**](#) · [**📊 Pitch Deck**](#) · [**🧠 How It Works**](#-architecture)
 [**🎮 Live Demo**](https://www.youtube.com/watch?v=dg0elsnAmi8) · [**📽️ Video Walkthrough**](#) · [**📊 Pitch Deck**](#) · [**🧠 How It Works**](#-architecture)
 </div>
 
