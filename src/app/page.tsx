@@ -54,7 +54,7 @@ export default function LandingPage() {
   };
 
   return (
-    <main className="min-h-screen bg-surface dark:bg-black text-gray-900 dark:text-gray-100 font-sans flex flex-col items-center overflow-x-hidden">
+    <main className="min-h-screen bg-black dark:bg-black text-gray-900 dark:text-gray-100 font-sans flex flex-col items-center overflow-x-hidden">
       
       {/* Hero Section */}
       <section className="w-full max-w-6xl mx-auto px-6 py-24 flex flex-col items-center text-center mt-8">
