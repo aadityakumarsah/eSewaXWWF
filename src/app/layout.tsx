@@ -27,7 +27,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${poppins.variable} ${spaceGrotesk.variable} antialiased`}>
-      <body className="min-h-screen bg-bg text-gray-900 dark:text-gray-100 flex flex-col">
+      <body className="min-h-screen bg-black text-gray-900 dark:text-gray-100 flex flex-col">
         <Nav />
         <div className="flex-1 w-full">
           {children}
