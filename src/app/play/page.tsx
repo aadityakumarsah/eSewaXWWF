@@ -110,7 +110,7 @@ export default function PlayPage() {
   const keywords = extractKeywords(currentScenario);
 
   return (
-    <div className="min-h-[100dvh] bg-surface dark:bg-gray-950 flex flex-col font-sans max-w-lg mx-auto md:border-x md:border-gray-200 dark:md:border-gray-800">
+    <div className="min-h-[100dvh] bg-gray-950 dark:bg-gray-950 flex flex-col font-sans max-w-lg mx-auto md:border-x md:border-gray-200 dark:md:border-gray-800">
       {/* Top Bar Navigation */}
       <div className="px-4 py-4 flex justify-between items-center sticky top-0 bg-surface/90 dark:bg-gray-950/90 backdrop-blur z-20">
         <div className="text-sm font-semibold text-gray-500 rounded-full border border-gray-200 dark:border-gray-800 px-3 py-1 bg-white dark:bg-gray-900 shadow-sm">
